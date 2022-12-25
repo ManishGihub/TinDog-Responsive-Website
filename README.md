@@ -5,6 +5,8 @@ This is responsive TinDog website developed using HTML,CSS and Bootstrap
 
 ![tindog2](https://user-images.githubusercontent.com/102681545/209464213-03246926-cca8-43f2-b949-d5113bbeefd0.JPG)
 
+![tindog6](https://user-images.githubusercontent.com/102681545/209464370-99b71007-839f-46e1-8aa1-ae84fba528c7.JPG)
+
 ![tindog4](https://user-images.githubusercontent.com/102681545/209464218-1e804223-65f9-4320-b62d-49778eecad7f.JPG)
 
 ![tindog3](https://user-images.githubusercontent.com/102681545/209464225-412274c6-0d14-4720-9f2a-dbe96a94038b.JPG)
